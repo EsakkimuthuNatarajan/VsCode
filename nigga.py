@@ -1,1 +1,3 @@
-print('Fuck Everyone!!!!')
+print('Fuck Everyone!')
+
+print('Okay Boomer!')
